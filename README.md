@@ -8,17 +8,13 @@
 
 Piscine is a project from Ecole 42 that serves as an intensive coding bootcamp. During the Piscine, students learn various programming languages and concepts, completing daily coding challenges and projects.
 
-<br></br>
-
 ## Getting Started
 
 The Piscine is a part of the Ecole 42 curriculum and is typically held on-site. To participate, you'll need to be a student at Ecole 42. The Piscine covers various topics and is a great way to improve your programming skills.
-<br></br>
 
 ## Prerequisites
 
 To join the Piscine, you generally need to be a registered at Ecole 42 website, and pass gaming pre-challenges. Some basic knowledge of programming can be helpful.
-<br></br>
 
 ## About Ecole 42
 
